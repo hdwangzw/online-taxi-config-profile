@@ -1,4 +1,6 @@
-env: master-qa
-
+#服务端口
 server: 
-  port: 8012
+  port: 8001
+
+
+env: branch-dev-qa
